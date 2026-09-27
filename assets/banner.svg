@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <rect width="1200" height="260" fill="#0d1117"/>
+  <polyline points="60,200 180,180 300,190 420,150 540,140 660,110" fill="none" stroke="#8b949e" stroke-width="3"/>
+  <polyline points="660,110 780,90 900,100 1020,60 1140,50" fill="none" stroke="#1f6feb" stroke-width="3" stroke-dasharray="8,6"/>
+  <polygon points="660,70 1140,20 1140,80 660,150" fill="#1f6feb" opacity="0.12"/>
+  <circle cx="660" cy="110" r="6" fill="#1f6feb"/>
+  <text x="60" y="80" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="bold" fill="#e6edf3">oci-forecast-guard</text>
+  <text x="60" y="120" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#8b949e">usage-cost forecasting + budget risk for OCI-style data (synthetic, offline)</text>
+</svg>
